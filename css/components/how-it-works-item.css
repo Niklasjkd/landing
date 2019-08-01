@@ -1,0 +1,23 @@
+.how-it-works-item {
+  height: 250px;
+  width: 200px;
+  box-shadow: 0px 0px 5px 0px rgba(189, 189, 189, 0.75);
+  border-radius: 5px;
+
+}
+
+.how-it-works-item img {
+  height: 115px;
+  margin: 20px auto;
+}
+
+.how-it-works-item h5 {
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.how-it-works-item h6 {
+  margin: auto;
+  color: gray;
+  font-weight: 100;
+}
